@@ -10,4 +10,6 @@ p.then(function () {
 });
 console.log(4);
 
+console.log(fetch("./test.json");
+
 alert("Hello!");
