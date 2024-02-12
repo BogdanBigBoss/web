@@ -12,6 +12,8 @@ console.log(4);
 
 console.log(fetch("./test.json");
 
+alert("Hello!");
+
 alert(fetch("./test.json"));
 
-alert("Hello!");
+
