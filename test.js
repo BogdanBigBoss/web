@@ -12,9 +12,7 @@ console.log(4);
 
 alert("Hello!");
 
-console.log(fetch("./test.json");
-
-
+console.log(fetch("./test.json"));
 
 alert(fetch("./test.json"));
 
