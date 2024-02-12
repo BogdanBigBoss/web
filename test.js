@@ -13,5 +13,6 @@ console.log(4);
 alert("Hello!");
 
 fetch("./test.json").then(response => response.json()).then(json => console.log(json));
+fetch("./test.json").then(response => response.json()).then(json => alert(json));
 
 
