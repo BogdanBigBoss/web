@@ -10,9 +10,11 @@ p.then(function () {
 });
 console.log(4);
 
+alert("Hello!");
+
 console.log(fetch("./test.json");
 
-alert("Hello!");
+
 
 alert(fetch("./test.json"));
 
